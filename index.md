@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to our project page
 
-You can use the [editor on GitHub](https://github.com/daiyi2930/project_bankruptcy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这是Zhou Xi、Hu Xin and Peng Zhaoqi 的合作project page；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 主题
 
-### Markdown
+我们的project主题是：
+bankruptcy prediction systems based on machine learning models
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# data
+## models
+### results
 
 - Bulleted
 - List
